@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "title": "Кроссовки NIKE REVOLUTION 5 (GS)",
+            "src": "https://images.wbstatic.net/c246x328/new/54590000/54593279-2.avif",
+            "description": "Страна производства Индонезия",
+            "content": "Материал верха искусственная кожа, текстиль, Внутренний материал текстиль",
+            "price": 23,
+            "colors": ["red", "black", "crimson", "teal"],
+            "count": 1
+        },
+        {
+            "id": "2",
+            "title": "Nike Shoes 02",
+            "src": "https://images.wbstatic.net/c246x328/new/54590000/54593279-2.avif",
+            "description": "Страна производства Индонезия",
+            "content": "Материал верха искусственная кожа, текстиль, Внутренний материал текстиль",
+            "price": 19,
+            "colors": ["red", "crimson", "teal"],
+            "count": 1
+        },
+        {
+            "id": "3",
+            "title": "Nike Shoes 03",
+            "src": "https://images.wbstatic.net/c246x328/new/54590000/54593279-2.avif",
+            "description": "Страна производства Индонезия",
+            "content": "Материал верха искусственная кожа, текстиль, Внутренний материал текстиль",
+            "price": 50,
+            "colors": ["lightblue", "white", "crimson", "teal"],
+            "count": 1
+        },
+        {
+            "id": "4",
+            "title": "Nike Shoes 04",
+            "src": "https://images.wbstatic.net/c246x328/new/54590000/54593279-2.avif",
+            "description": "Страна производства Индонезия",
+            "content": "Материал верха искусственная кожа, текстиль, Внутренний материал текстиль",
+            "price": 15,
+            "colors": ["orange", "black", "crimson", "teal"],
+            "count": 1
+        },
+        {
+            "id": "5",
+            "title": "Nike Shoes 05",
+            "src": "https://images.wbstatic.net/c246x328/new/54590000/54593279-2.avif",
+            "description": "Страна производства Индонезия",
+            "content": "Материал верха искусственная кожа, текстиль, Внутренний материал текстиль",
+            "price": 10,
+            "colors": ["orange", "black", "crimson", "teal"],
+            "count": 1
+        },
+        {
+            "id": "6",
+            "title": "Nike Shoes 06",
+            "src": "https://images.wbstatic.net/c246x328/new/54590000/54593279-2.avif",
+            "description": "Страна производства Индонезия",
+            "content": "Материал верха искусственная кожа, текстиль, Внутренний материал текстиль",
+            "price": 17,
+            "colors": ["orange", "black", "crimson", "teal"],
+            "count": 1
+        }
+    ]
+}
